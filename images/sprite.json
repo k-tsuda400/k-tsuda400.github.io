@@ -20,6 +20,46 @@
                 "h": 88
             }
         },
+        "character-0-1": {
+            "frame": {
+                "x": 84,
+                "y": 0,
+                "w": 80,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 240,
+                "y": 88,
+                "w": 80,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 88
+            }
+        },
+        "character-0-2": {
+            "frame": {
+                "x": 84,
+                "y": 0,
+                "w": 80,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 176,
+                "w": 80,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 88
+            }
+        }
     },
     "meta": {
         "app": "https://github.com/Ensighten/spritesmith",
